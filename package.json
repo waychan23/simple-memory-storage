@@ -10,7 +10,7 @@
 		"type": "git",
 		"url": "git+https://github.com/waychan23/simple-memory-storage.git"
 	},
-	"keywords": ['node', 'storage', 'memeory'],
+	"keywords": ["node", "storage", "memeory"],
 	"author": "waychan23@hotmail.com",
 	"license": "MIT",
 	"bugs": {
