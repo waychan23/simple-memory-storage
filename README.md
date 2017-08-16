@@ -6,7 +6,7 @@ A simple runtime-memory-backed storage.
 
 ## Usage
 
-```
+```javascript
 var MemoryStorage = require('simple-memory-storage');
 
 var storage = new MemoryStorage({ checkExpiration: true, checkExpirationInterval: 3000 });
